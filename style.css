@@ -1,0 +1,24 @@
+.content{
+			display: inline-block;
+			width: 48%;
+
+
+		}
+		.logo {
+			font-size: 20px;
+			
+		}
+		.header_item_1 {
+			float:right;
+			display: inline-block;
+			color: lightgrey;
+		}
+		.header_item_2 {
+			float: right;
+			color: blue;
+			text-decoration: none;
+		}
+		img{
+			height:250px; 
+			width: 100%;
+		}
